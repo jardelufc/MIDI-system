@@ -3,6 +3,7 @@ O projeto aqui descrito faz parte do Projeto de conclusao da disciplina de Siste
 Desenvolvedores
 
 -Levir César Ribeiro Lemos 400555
+
 -Mario Victor Rodrigues Sales 408848
 
 O intuito desse projeto é desenvolver um pequeno teclado MIDI system que seja capaz de emitir , gravar, alterar o timbre do som e reconhecer uma nota falada pelo usuário.
