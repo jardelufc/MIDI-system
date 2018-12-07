@@ -10,3 +10,9 @@ O intuito desse projeto é desenvolver um pequeno teclado MIDI system que seja c
 
 Além disso, o usuário poderá escolher por meio de botoes alguns timbres diferentes para serem usados.
 O reconhecimento por voz da nota retornara o numero do botao que ao ser precionado emite aquele som. Somado a isso, colocaremos um sistema de chave, onde o usuário so irá liberar uma função extra se acertar a sequencia de notas que compõem um padrão pré-definido.
+
+#new Project
+# Teremim
+
+O intuito desse projeto é desenvolver um pequeno instrumento musical 
+
