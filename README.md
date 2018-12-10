@@ -14,5 +14,15 @@ O reconhecimento por voz da nota retornara o numero do botao que ao ser preciona
 #new Project
 # Teremim
 
-O intuito desse projeto é desenvolver um pequeno instrumento musical 
+O intuito desse projeto é desenvolver um pequeno instrumento musical utilizando um dispositivo ultrassonico e buzzers
+material:
+1- stm32f030
+2- buzzer
+1- hc sr04
+3- resistores de 
+3- led 
+1- protoboard
+1 - stlink v2
+
+o Dispositivo é capaz de reproduzir uma sequencia de notas pre definidadas, assim como padroes de cores de led .
 
